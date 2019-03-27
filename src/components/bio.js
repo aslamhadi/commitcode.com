@@ -30,8 +30,9 @@ function Bio() {
                 borderRadius: `50%`
               }}
             />
-            <p style={{ paddingTop: 10 }}>
-              Jurnal dalam bahasa Indonesia
+            <p>
+              Development articles, thoughts, stories and ideas. <br /> Feedback
+              and comment to
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>@aslamhadi</a>
             </p>

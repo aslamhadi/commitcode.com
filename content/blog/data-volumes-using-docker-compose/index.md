@@ -1,6 +1,6 @@
 ---
 title: Data Volumes using Docker Compose
-data: "2015-09-01T22:12:03.284Z"
+date: "2015-12-08T22:12:03.284Z"
 ---
 
 If you are developing a web app using Docker, you will change your code so many times. The problem with developing using Docker, your files are build in the first time. So you need to stop the Docker, run `docker-compose build` and then `docker-compose up` to test your app again. This problem can be solved using Data Volumes.
