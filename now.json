@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "id.commitcode.com",
+  "name": "commitcode.com",
   "builds": [
     {
       "src": "package.json",
