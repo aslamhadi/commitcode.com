@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `CommitCode ID`,
+    title: `CommitCode`,
     author: `Aslam Hadi`,
-    description: `Blog dalam bahasa Indonesia`,
-    siteUrl: `https://id.commitcode.com`,
+    description: `Development articles, thoughts, stories and ideas.`,
+    siteUrl: `https://commitcode.com`,
     social: {
       twitter: `aslamhadi`
     }
